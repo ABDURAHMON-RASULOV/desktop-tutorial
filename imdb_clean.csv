@@ -1,0 +1,251 @@
+Title,Year,Rating,Votes,Genres,Runtime,Director,Top 3 Cast,Box Office
+The Shawshank Redemption,1994,9.3,,[],Runtime2 hours 22 minutes,Frank Darabont,"['Tim Robbins', 'Morgan Freeman', 'Bob Gunton']",29333735.0
+The Godfather,1972,9.2,,[],Runtime2 hours 55 minutes,Francis Ford Coppola,"['Marlon Brando', 'Al Pacino', 'James Caan']",250342198.0
+The Dark Knight,2008,9.0,,[],Runtime2 hours 32 minutes,Christopher Nolan,"['Christian Bale', 'Heath Ledger', 'Aaron Eckhart']",1009057329.0
+The Godfather Part II,1974,9.0,,[],Runtime3 hours 22 minutes,Francis Ford Coppola,"['Al Pacino', 'Robert De Niro', 'Robert Duvall']",47983687.0
+12 Angry Men,1957,9.0,,[],Runtime1 hour 36 minutes,Sidney Lumet,"['Henry Fonda', 'Lee J. Cobb', 'Martin Balsam']",2945.0
+The Lord of the Rings: The Return of the King,2003,9.0,,[],Runtime3 hours 21 minutes,Peter Jackson,"['Elijah Wood', 'Viggo Mortensen', 'Ian McKellen']",1138585547.0
+Schindler's List,1994,9.0,,[],Runtime3 hours 15 minutes,Steven Spielberg,"['Liam Neeson', 'Ralph Fiennes', 'Ben Kingsley']",322161245.0
+Pulp Fiction,1994,8.8,,[],Runtime2 hours 34 minutes,Quentin Tarantino,"['John Travolta', 'Uma Thurman', 'Samuel L. Jackson']",213928762.0
+The Lord of the Rings: The Fellowship of the Ring,2001,8.9,,[],Runtime2 hours 58 minutes,Peter Jackson,"['Elijah Wood', 'Ian McKellen', 'Orlando Bloom']",888483037.0
+"The Good, the Bad and the Ugly",1967,8.8,,[],Runtime2 hours 58 minutes,Sergio Leone,"['Clint Eastwood', 'Eli Wallach', 'Lee Van Cleef']",25266106.0
+Forrest Gump,1994,8.8,,[],Runtime2 hours 22 minutes,Robert Zemeckis,"['Tom Hanks', 'Robin Wright', 'Gary Sinise']",678226465.0
+The Lord of the Rings: The Two Towers,2002,8.8,,[],Runtime2 hours 59 minutes,Peter Jackson,"['Elijah Wood', 'Ian McKellen', 'Viggo Mortensen']",938532865.0
+Fight Club,1999,8.8,,[],Runtime2 hours 19 minutes,David Fincher,"['Brad Pitt', 'Edward Norton', 'Meat Loaf']",101321009.0
+Inception,2010,8.8,,[],Runtime2 hours 28 minutes,Christopher Nolan,"['Leonardo DiCaprio', 'Joseph Gordon-Levitt', 'Elliot Page']",839381898.0
+Star Wars: Episode V - The Empire Strikes Back,1980,8.7,,[],Runtime2 hours 4 minutes,Irvin Kershner,"['Mark Hamill', 'Harrison Ford', 'Carrie Fisher']",550016086.0
+The Matrix,1999,8.7,,[],Runtime2 hours 16 minutes,Lana Wachowski,"['Keanu Reeves', 'Laurence Fishburne', 'Carrie-Anne Moss']",467841735.0
+Goodfellas,1990,8.7,,[],Runtime2 hours 25 minutes,Martin Scorsese,"['Robert De Niro', 'Ray Liotta', 'Joe Pesci']",47068004.0
+Interstellar,2014,8.7,,[],Runtime2 hours 49 minutes,Christopher Nolan,"['Matthew McConaughey', 'Anne Hathaway', 'Jessica Chastain']",758690230.0
+One Flew Over the Cuckoo's Nest,1975,8.7,,[],Runtime2 hours 13 minutes,Milos Forman,"['Jack Nicholson', 'Louise Fletcher', 'Michael Berryman']",109115366.0
+Se7en,1995,8.6,,[],Runtime2 hours 7 minutes,David Fincher,"['Morgan Freeman', 'Brad Pitt', 'Kevin Spacey']",328981827.0
+It's a Wonderful Life,1947,8.6,,[],Runtime2 hours 10 minutes,Frank Capra,"['James Stewart', 'Donna Reed', 'Lionel Barrymore']",10635461.0
+The Silence of the Lambs,1991,8.6,,[],Runtime1 hour 58 minutes,Jonathan Demme,"['Jodie Foster', 'Anthony Hopkins', 'Scott Glenn']",272742922.0
+Seven Samurai,1956,8.6,,[],Runtime3 hours 27 minutes,Akira Kurosawa,"['Toshirô Mifune', 'Takashi Shimura', 'Keiko Tsushima']",1082148.0
+Saving Private Ryan,1998,8.6,,[],Runtime2 hours 49 minutes,Steven Spielberg,"['Tom Hanks', 'Matt Damon', 'Tom Sizemore']",482352390.0
+City of God,2004,8.6,,[],Runtime2 hours 10 minutes,Fernando Meirelles,"['Alexandre Rodrigues', 'Leandro Firmino', 'Matheus Nachtergaele']",30681033.0
+The Green Mile,1999,8.6,,[],Runtime3 hours 9 minutes,Frank Darabont,"['Tom Hanks', 'Michael Clarke Duncan', 'David Morse']",286801374.0
+Life Is Beautiful,1997,8.6,,[],Runtime1 hour 56 minutes,Roberto Benigni,"['Roberto Benigni', 'Nicoletta Braschi', 'Giorgio Cantarini']",230099013.0
+Terminator 2: Judgment Day,1991,8.6,,[],Runtime2 hours 17 minutes,James Cameron,"['Arnold Schwarzenegger', 'Linda Hamilton', 'Edward Furlong']",517778573.0
+Star Wars: Episode IV - A New Hope,1977,8.6,,[],Runtime2 hours 1 minute,George Lucas,"['Mark Hamill', 'Harrison Ford', 'Carrie Fisher']",775398507.0
+Back to the Future,1985,8.5,,[],Runtime1 hour 56 minutes,Robert Zemeckis,"['Michael J. Fox', 'Christopher Lloyd', 'Lea Thompson']",385053307.0
+Spirited Away,2003,8.6,,[],Runtime2 hours 4 minutes,Hayao Miyazaki,"['Daveigh Chase', 'Suzanne Pleshette', 'Miyu Irino']",359591806.0
+The Pianist,2003,8.5,,[],Runtime2 hours 30 minutes,Roman Polanski,"['Adrien Brody', 'Thomas Kretschmann', 'Frank Finlay']",120098945.0
+Gladiator,2000,8.5,,[],Runtime2 hours 35 minutes,Ridley Scott,"['Russell Crowe', 'Joaquin Phoenix', 'Connie Nielsen']",465516248.0
+Parasite,2019,8.5,,[],Runtime2 hours 12 minutes,Bong Joon Ho,"['Song Kang-ho', 'Lee Sun-kyun', 'Cho Yeo-jeong']",262616458.0
+Psycho,1960,8.5,,[],Runtime1 hour 49 minutes,Alfred Hitchcock,"['Anthony Perkins', 'Janet Leigh', 'Vera Miles']",32253563.0
+The Lion King,1994,8.5,,[],Runtime1 hour 28 minutes,Roger Allers,"['Matthew Broderick', 'Jeremy Irons', 'James Earl Jones']",979161373.0
+Grave of the Fireflies,1989,8.5,,[],Runtime1 hour 28 minutes,Isao Takahata,"['Tsutomu Tatsumi', 'Ayano Shiraishi', 'Akemi Yamaguchi']",842132.0
+The Departed,2006,8.5,,[],Runtime2 hours 31 minutes,Martin Scorsese,"['Leonardo DiCaprio', 'Matt Damon', 'Jack Nicholson']",291481358.0
+Whiplash,2014,8.5,,[],Runtime1 hour 46 minutes,Damien Chazelle,"['Miles Teller', 'J.K. Simmons', 'Melissa Benoist']",50360880.0
+Harakiri,1964,8.6,,[],Runtime2 hours 13 minutes,Masaki Kobayashi,"['Tatsuya Nakadai', 'Akira Ishihama', 'Shima Iwashita']",15222.0
+The Prestige,2006,8.5,,[],Runtime2 hours 10 minutes,Christopher Nolan,"['Christian Bale', 'Hugh Jackman', 'Scarlett Johansson']",109676311.0
+American History X,1998,8.5,,[],Runtime1 hour 59 minutes,Tony Kaye,"['Edward Norton', 'Edward Furlong', ""Beverly D'Angelo""]",23875714.0
+Léon: The Professional,1994,8.5,,[],Runtime1 hour 50 minutes,Luc Besson,"['Jean Reno', 'Gary Oldman', 'Natalie Portman']",20330788.0
+Spider-Man: Across the Spider-Verse,2023,8.5,,[],Runtime2 hours 20 minutes,Joaquim Dos Santos,"['Shameik Moore', 'Hailee Steinfeld', 'Brian Tyree Henry']",690824738.0
+Casablanca,1943,8.5,,[],Runtime1 hour 42 minutes,Michael Curtiz,"['Humphrey Bogart', 'Ingrid Bergman', 'Paul Henreid']",4731471.0
+The Usual Suspects,1995,8.5,,[],Runtime1 hour 46 minutes,Bryan Singer,"['Kevin Spacey', 'Gabriel Byrne', 'Chazz Palminteri']",23341568.0
+Cinema Paradiso,1990,8.5,,[],Runtime2 hours 54 minutes,Giuseppe Tornatore,"['Philippe Noiret', 'Enzo Cannavale', 'Antonella Attili']",13030027.0
+The Intouchables,2011,8.5,,[],Runtime1 hour 52 minutes,Olivier Nakache,"['François Cluzet', 'Omar Sy', 'Anne Le Ny']",426590315.0
+Alien,1979,8.5,,[],Runtime1 hour 57 minutes,Ridley Scott,"['Sigourney Weaver', 'Tom Skerritt', 'John Hurt']",109102567.0
+Modern Times,1936,8.5,,[],Runtime1 hour 27 minutes,Charles Chaplin,"['Charles Chaplin', 'Paulette Goddard', 'Henry Bergman']",463618.0
+Rear Window,1954,8.5,,[],Runtime1 hour 52 minutes,Alfred Hitchcock,"['James Stewart', 'Grace Kelly', 'Wendell Corey']",37905475.0
+Once Upon a Time in the West,1969,8.5,,[],Runtime2 hours 46 minutes,Sergio Leone,"['Henry Fonda', 'Charles Bronson', 'Claudia Cardinale']",5435312.0
+Django Unchained,2012,8.5,,[],Runtime2 hours 45 minutes,Quentin Tarantino,"['Jamie Foxx', 'Christoph Waltz', 'Leonardo DiCaprio']",426076293.0
+City Lights,1931,8.5,,[],Runtime1 hour 27 minutes,Charles Chaplin,"['Charles Chaplin', 'Virginia Cherrill', 'Florence Lee']",55154.0
+Apocalypse Now,1979,8.4,,[],Runtime2 hours 27 minutes,Francis Ford Coppola,"['Martin Sheen', 'Marlon Brando', 'Robert Duvall']",105150841.0
+WALL·E,2008,8.4,,[],Runtime1 hour 38 minutes,Andrew Stanton,"['Ben Burtt', 'Elissa Knight', 'Jeff Garlin']",527403656.0
+Dune: Part Two,2024,8.5,,[],Runtime2 hours 46 minutes,Denis Villeneuve,"['Timothée Chalamet', 'Zendaya', 'Rebecca Ferguson']",714644358.0
+Memento,2001,8.4,,[],Runtime1 hour 53 minutes,Christopher Nolan,"['Guy Pearce', 'Carrie-Anne Moss', 'Joe Pantoliano']",40060108.0
+Raiders of the Lost Ark,1981,8.4,,[],Runtime1 hour 55 minutes,Steven Spielberg,"['Harrison Ford', 'Karen Allen', 'Paul Freeman']",389925971.0
+The Lives of Others,2007,8.4,,[],Runtime2 hours 17 minutes,Florian Henckel von Donnersmarck,"['Ulrich Mühe', 'Martina Gedeck', 'Sebastian Koch']",77672685.0
+Avengers: Infinity War,2018,8.4,,[],Runtime2 hours 29 minutes,Anthony Russo,"['Robert Downey Jr.', 'Chris Hemsworth', 'Mark Ruffalo']",2052415039.0
+Sunset Boulevard,1950,8.4,,[],Runtime1 hour 50 minutes,Billy Wilder,"['William Holden', 'Gloria Swanson', 'Erich von Stroheim']",310954.0
+Spider-Man: Into the Spider-Verse,2018,8.4,,[],Runtime1 hour 57 minutes,Bob Persichetti,"['Shameik Moore', 'Jake Johnson', 'Hailee Steinfeld']",393602435.0
+Witness for the Prosecution,1958,8.4,,[],Runtime1 hour 56 minutes,Billy Wilder,"['Tyrone Power', 'Marlene Dietrich', 'Charles Laughton']",7903.0
+Paths of Glory,1957,8.4,,[],Runtime1 hour 28 minutes,Stanley Kubrick,"['Kirk Douglas', 'Ralph Meeker', 'Adolphe Menjou']",8290.0
+The Shining,1980,8.4,,[],Runtime2 hours 26 minutes,Stanley Kubrick,"['Jack Nicholson', 'Shelley Duvall', 'Danny Lloyd']",47965753.0
+The Great Dictator,1941,8.4,,[],Runtime2 hours 5 minutes,Charles Chaplin,"['Charles Chaplin', 'Paulette Goddard', 'Jack Oakie']",972212.0
+12th Fail,2023,8.7,,[],Runtime2 hours 27 minutes,Vidhu Vinod Chopra,"['Vikrant Massey', 'Medha Shankr', 'Anant Joshi']",138288.0
+Inglourious Basterds,2009,8.4,,[],Runtime2 hours 33 minutes,Quentin Tarantino,"['Brad Pitt', 'Diane Kruger', 'Eli Roth']",321460744.0
+Aliens,1986,8.4,,[],Runtime2 hours 17 minutes,James Cameron,"['Sigourney Weaver', 'Michael Biehn', 'Carrie Henn']",131060248.0
+The Dark Knight Rises,2012,8.4,,[],Runtime2 hours 44 minutes,Christopher Nolan,"['Christian Bale', 'Tom Hardy', 'Anne Hathaway']",1114976407.0
+Coco,2017,8.4,,[],Runtime1 hour 45 minutes,Lee Unkrich,"['Anthony Gonzalez', 'Gael García Bernal', 'Benjamin Bratt']",814641172.0
+Amadeus,1984,8.4,,[],Runtime2 hours 40 minutes,Milos Forman,"['F. Murray Abraham', 'Tom Hulce', 'Elizabeth Berridge']",52205710.0
+Toy Story,1995,8.3,,[],Runtime1 hour 21 minutes,John Lasseter,"['Tom Hanks', 'Tim Allen', 'Don Rickles']",394436586.0
+Avengers: Endgame,2019,8.4,,[],Runtime3 hours 1 minute,Anthony Russo,"['Robert Downey Jr.', 'Chris Evans', 'Mark Ruffalo']",2799439100.0
+Good Will Hunting,1998,8.3,,[],Runtime2 hours 6 minutes,Gus Van Sant,"['Robin Williams', 'Matt Damon', 'Ben Affleck']",225933435.0
+Oldboy,2003,8.3,,[],Runtime2 hours,Park Chan-wook,"['Choi Min-sik', 'Yoo Ji-tae', 'Kang Hye-jeong']",17617021.0
+Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,1964,8.3,,[],Runtime1 hour 35 minutes,Stanley Kubrick,"['Peter Sellers', 'George C. Scott', 'Sterling Hayden']",9631984.0
+Das Boot,1982,8.4,,[],Runtime2 hours 29 minutes,Wolfgang Petersen,"['Jürgen Prochnow', 'Herbert Grönemeyer', 'Klaus Wennemann']",11489051.0
+Braveheart,1995,8.3,,[],Runtime2 hours 58 minutes,Mel Gibson,"['Mel Gibson', 'Sophie Marceau', 'Patrick McGoohan']",213216216.0
+American Beauty,1999,8.3,,[],Runtime2 hours 2 minutes,Sam Mendes,"['Kevin Spacey', 'Annette Bening', 'Thora Birch']",356296601.0
+High and Low,1963,8.4,,[],Runtime2 hours 23 minutes,Akira Kurosawa,"['Toshirô Mifune', 'Yutaka Sada', 'Tatsuya Nakadai']",64503.0
+Princess Mononoke,1997,8.3,,[],Runtime2 hours 13 minutes,Hayao Miyazaki,"['Yôji Matsuda', 'Yuriko Ishida', 'Yûko Tanaka']",177642623.0
+Your Name.,2017,8.4,,[],Runtime1 hour 46 minutes,Makoto Shinkai,"['Ryûnosuke Kamiki', 'Mone Kamishiraishi', 'Ryo Narita']",405340703.0
+3 Idiots,2009,8.4,,[],Runtime2 hours 50 minutes,Rajkumar Hirani,"['Aamir Khan', 'Madhavan', 'Mona Singh']",60262836.0
+Joker,2019,8.3,,[],Runtime2 hours 2 minutes,Todd Phillips,"['Joaquin Phoenix', 'Robert De Niro', 'Zazie Beetz']",1078958629.0
+Once Upon a Time in America,1984,8.3,,[],Runtime3 hours 49 minutes,Sergio Leone,"['Robert De Niro', 'James Woods', 'Elizabeth McGovern']",5476126.0
+Capernaum,2018,8.4,,[],Runtime2 hours 6 minutes,Nadine Labaki,"['Zain Al Rafeea', 'Yordanos Shiferaw', 'Boluwatife Treasure Bankole']",64417003.0
+Singin' in the Rain,1952,8.3,,[],Runtime1 hour 43 minutes,Stanley Donen,"['Gene Kelly', ""Donald O'Connor"", 'Debbie Reynolds']",2096442.0
+Come and See,1985,8.3,,[],Runtime2 hours 22 minutes,Elem Klimov,"['Aleksey Kravchenko', 'Olga Mironova', 'Liubomiras Laucevicius']",20929648.0
+Requiem for a Dream,2000,8.3,,[],Runtime1 hour 42 minutes,Darren Aronofsky,"['Ellen Burstyn', 'Jared Leto', 'Jennifer Connelly']",7391471.0
+Star Wars: Episode VI - Return of the Jedi,1983,8.3,,[],Runtime2 hours 11 minutes,Richard Marquand,"['Mark Hamill', 'Harrison Ford', 'Carrie Fisher']",482466382.0
+Toy Story 3,2010,8.3,,[],Runtime1 hour 43 minutes,Lee Unkrich,"['Tom Hanks', 'Tim Allen', 'Joan Cusack']",1067316101.0
+The Hunt,2012,8.3,,[],Runtime1 hour 55 minutes,Thomas Vinterberg,"['Mads Mikkelsen', 'Thomas Bo Larsen', 'Annika Wedderkopp']",15886373.0
+Ikiru,1956,8.3,,[],Runtime2 hours 23 minutes,Akira Kurosawa,"['Takashi Shimura', 'Nobuo Kaneko', ""Shin'ichi Himori""]",113821.0
+Eternal Sunshine of the Spotless Mind,2004,8.3,,[],Runtime1 hour 48 minutes,Michel Gondry,"['Jim Carrey', 'Kate Winslet', 'Tom Wilkinson']",73384095.0
+Incendies,2011,8.3,,[],Runtime2 hours 11 minutes,Denis Villeneuve,"['Lubna Azabal', 'Mélissa Désormeaux-Poulin', 'Maxim Gaudette']",6797861.0
+2001: A Space Odyssey,1968,8.3,,[],Runtime2 hours 29 minutes,Stanley Kubrick,"['Keir Dullea', 'Gary Lockwood', 'William Sylvester']",66890296.0
+The Apartment,1960,8.3,,[],Runtime2 hours 5 minutes,Billy Wilder,"['Jack Lemmon', 'Shirley MacLaine', 'Fred MacMurray']",18783770.0
+Reservoir Dogs,1992,8.3,,[],Runtime1 hour 39 minutes,Quentin Tarantino,"['Harvey Keitel', 'Tim Roth', 'Michael Madsen']",2932006.0
+Lawrence of Arabia,2013,8.3,,[],Runtime3 hours 47 minutes,David Lean,"[""Peter O'Toole"", 'Alec Guinness', 'Anthony Quinn']",45870825.0
+Scarface,1983,8.3,,[],Runtime2 hours 50 minutes,Brian De Palma,"['Al Pacino', 'Michelle Pfeiffer', 'Steven Bauer']",66443303.0
+Double Indemnity,1944,8.3,,[],Runtime1 hour 47 minutes,Billy Wilder,"['Fred MacMurray', 'Barbara Stanwyck', 'Edward G. Robinson']",21026.0
+Heat,1995,8.3,,[],Runtime2 hours 50 minutes,Michael Mann,"['Al Pacino', 'Robert De Niro', 'Val Kilmer']",187436818.0
+The Chaos Class Failed the Class,1975,8.7,,[],Runtime1 hour 35 minutes,Ertem Egilmez,"['Münir Özkul', 'Tarik Akan', 'Kemal Sunal']",
+North by Northwest,1959,8.3,,[],Runtime2 hours 16 minutes,Alfred Hitchcock,"['Cary Grant', 'Eva Marie Saint', 'James Mason']",197920.0
+Up,2009,8.3,,[],Runtime1 hour 36 minutes,Pete Docter,"['Edward Asner', 'Jordan Nagai', 'John Ratzenberger']",735103954.0
+Citizen Kane,1941,8.3,,[],Runtime1 hour 59 minutes,Orson Welles,"['Orson Welles', 'Joseph Cotten', 'Dorothy Comingore']",1711106.0
+M,1931,8.3,,[],Runtime1 hour 39 minutes,Fritz Lang,"['Peter Lorre', 'Ellen Widmann', 'Inge Landgut']",35566.0
+Full Metal Jacket,1987,8.2,,[],Runtime1 hour 56 minutes,Stanley Kubrick,"['Matthew Modine', 'R. Lee Ermey', ""Vincent D'Onofrio""]",50193748.0
+Vertigo,1958,8.2,,[],Runtime2 hours 8 minutes,Alfred Hitchcock,"['James Stewart', 'Kim Novak', 'Barbara Bel Geddes']",7971440.0
+Amélie,2002,8.3,,[],Runtime2 hours 2 minutes,Jean-Pierre Jeunet,"['Audrey Tautou', 'Mathieu Kassovitz', 'Rufus']",175183052.0
+Like Stars on Earth,2007,8.3,,[],Runtime2 hours 42 minutes,Aamir Khan,"['Darsheel Safary', 'Aamir Khan', 'Tisca Chopra']",21897373.0
+A Separation,2011,8.3,,[],Runtime2 hours 3 minutes,Asghar Farhadi,"['Payman Maadi', 'Leila Hatami', 'Sareh Bayat']",22926076.0
+To Kill a Mockingbird,1963,8.3,,[],Runtime2 hours 9 minutes,Robert Mulligan,"['Gregory Peck', 'John Megna', 'Frank Overton']",602810.0
+Die Hard,1988,8.2,,[],Runtime2 hours 12 minutes,John McTiernan,"['Bruce Willis', 'Alan Rickman', 'Bonnie Bedelia']",143651650.0
+A Clockwork Orange,1972,8.2,,[],Runtime2 hours 16 minutes,Stanley Kubrick,"['Malcolm McDowell', 'Patrick Magee', 'Michael Bates']",27034174.0
+Indiana Jones and the Last Crusade,1989,8.2,,[],Runtime2 hours 7 minutes,Steven Spielberg,"['Harrison Ford', 'Sean Connery', 'Alison Doody']",474171806.0
+The Sting,1973,8.2,,[],Runtime2 hours 9 minutes,George Roy Hill,"['Paul Newman', 'Robert Redford', 'Robert Shaw']",156000000.0
+Oppenheimer,2023,8.3,,[],Runtime3 hours,Christopher Nolan,"['Cillian Murphy', 'Emily Blunt', 'Matt Damon']",975811333.0
+Metropolis,1927,8.3,,[],Runtime2 hours 33 minutes,Fritz Lang,"['Brigitte Helm', 'Alfred Abel', 'Gustav Fröhlich']",1351009.0
+Snatch,2001,8.2,,[],Runtime1 hour 42 minutes,Guy Ritchie,"['Jason Statham', 'Brad Pitt', 'Stephen Graham']",83557872.0
+1917,2020,8.2,,[],Runtime1 hour 59 minutes,Sam Mendes,"['Dean-Charles Chapman', 'George MacKay', 'Daniel Mays']",446064352.0
+L.A. Confidential,1997,8.2,,[],Runtime2 hours 18 minutes,Curtis Hanson,"['Kevin Spacey', 'Russell Crowe', 'Guy Pearce']",126216940.0
+Bicycle Thieves,1949,8.2,,[],Runtime1 hour 29 minutes,Vittorio De Sica,"['Lamberto Maggiorani', 'Enzo Staiola', 'Lianella Carell']",451643.0
+Downfall,2005,8.2,,[],Runtime2 hours 36 minutes,Oliver Hirschbiegel,"['Bruno Ganz', 'Alexandra Maria Lara', 'Ulrich Matthes']",92181574.0
+Dangal,2016,8.3,,[],Runtime2 hours 41 minutes,Nitesh Tiwari,"['Aamir Khan', 'Sakshi Tanwar', 'Fatima Sana Shaikh']",303726694.0
+The Wolf of Wall Street,2013,8.2,,[],Runtime3 hours,Martin Scorsese,"['Leonardo DiCaprio', 'Jonah Hill', 'Margot Robbie']",407039432.0
+Hamilton,2020,8.3,,[],Runtime2 hours 40 minutes,Thomas Kail,"['Lin-Manuel Miranda', 'Phillipa Soo', 'Leslie Odom Jr.']",
+Taxi Driver,1976,8.2,,[],Runtime1 hour 54 minutes,Martin Scorsese,"['Robert De Niro', 'Jodie Foster', 'Cybill Shepherd']",28737520.0
+Green Book,2018,8.2,,[],Runtime2 hours 10 minutes,Peter Farrelly,"['Viggo Mortensen', 'Mahershala Ali', 'Linda Cardellini']",321752656.0
+Batman Begins,2005,8.2,,[],Runtime2 hours 20 minutes,Christopher Nolan,"['Christian Bale', 'Michael Caine', 'Ken Watanabe']",375406308.0
+The Truman Show,1998,8.2,,[],Runtime1 hour 43 minutes,Peter Weir,"['Jim Carrey', 'Ed Harris', 'Laura Linney']",264118712.0
+For a Few Dollars More,1967,8.2,,[],Runtime2 hours 12 minutes,Sergio Leone,"['Clint Eastwood', 'Lee Van Cleef', 'Gian Maria Volontè']",15000000.0
+Judgment at Nuremberg,1961,8.3,,[],Runtime2 hours 59 minutes,Stanley Kramer,"['Spencer Tracy', 'Burt Lancaster', 'Richard Widmark']",12180.0
+Some Like It Hot,1959,8.2,,[],Runtime2 hours 1 minute,Billy Wilder,"['Marilyn Monroe', 'Tony Curtis', 'Jack Lemmon']",208786.0
+Shutter Island,2010,8.2,,[],Runtime2 hours 18 minutes,Martin Scorsese,"['Leonardo DiCaprio', 'Emily Mortimer', 'Mark Ruffalo']",294978537.0
+The Kid,1921,8.2,,[],Runtime1 hour 8 minutes,Charles Chaplin,"['Charles Chaplin', 'Edna Purviance', 'Jackie Coogan']",44115.0
+The Father,2021,8.2,,[],Runtime1 hour 37 minutes,Florian Zeller,"['Anthony Hopkins', 'Olivia Colman', 'Mark Gatiss']",24048935.0
+Jurassic Park,1993,8.2,,[],Runtime2 hours 7 minutes,Steven Spielberg,"['Sam Neill', 'Laura Dern', 'Jeff Goldblum']",1104379926.0
+All About Eve,1950,8.2,,[],Runtime2 hours 18 minutes,Joseph L. Mankiewicz,"['Bette Davis', 'Anne Baxter', 'George Sanders']",154974.0
+There Will Be Blood,2008,8.2,,[],Runtime2 hours 38 minutes,Paul Thomas Anderson,"['Daniel Day-Lewis', 'Paul Dano', 'Ciarán Hinds']",76430381.0
+The Sixth Sense,1999,8.2,,[],Runtime1 hour 47 minutes,M. Night Shyamalan,"['Bruce Willis', 'Haley Joel Osment', 'Toni Collette']",672806432.0
+Casino,1995,8.2,,[],Runtime2 hours 58 minutes,Martin Scorsese,"['Robert De Niro', 'Sharon Stone', 'Joe Pesci']",116112375.0
+Ran,1985,8.2,,[],Runtime2 hours 40 minutes,Akira Kurosawa,"['Tatsuya Nakadai', 'Akira Terao', 'Jinpachi Nezu']",4357139.0
+Top Gun: Maverick,2022,8.2,,[],Runtime2 hours 10 minutes,Joseph Kosinski,"['Tom Cruise', 'Jennifer Connelly', 'Miles Teller']",1495696292.0
+No Country for Old Men,2007,8.2,,[],Runtime2 hours 2 minutes,Ethan Coen,"['Tommy Lee Jones', 'Javier Bardem', 'Josh Brolin']",171632777.0
+The Thing,1982,8.2,,[],Runtime1 hour 49 minutes,John Carpenter,"['Kurt Russell', 'Wilford Brimley', 'Keith David']",20839547.0
+Pan's Labyrinth,2007,8.2,,[],Runtime1 hour 58 minutes,Guillermo del Toro,"['Ivana Baquero', 'Ariadna Gil', 'Sergi López']",83863565.0
+Unforgiven,1992,8.2,,[],Runtime2 hours 10 minutes,Clint Eastwood,"['Clint Eastwood', 'Gene Hackman', 'Morgan Freeman']",159167799.0
+Kill Bill: Vol. 1,2003,8.2,,[],Runtime1 hour 51 minutes,Quentin Tarantino,"['Uma Thurman', 'David Carradine', 'Daryl Hannah']",180908413.0
+A Beautiful Mind,2002,8.2,,[],Runtime2 hours 15 minutes,Ron Howard,"['Russell Crowe', 'Ed Harris', 'Jennifer Connelly']",316791257.0
+Prisoners,2013,8.2,,[],Runtime2 hours 33 minutes,Denis Villeneuve,"['Hugh Jackman', 'Jake Gyllenhaal', 'Viola Davis']",122127446.0
+The Treasure of the Sierra Madre,1948,8.2,,[],Runtime2 hours 6 minutes,John Huston,"['Humphrey Bogart', 'Walter Huston', 'Tim Holt']",5014000.0
+Yojimbo,1961,8.2,,[],Runtime1 hour 50 minutes,Akira Kurosawa,"['Toshirô Mifune', 'Eijirô Tôno', 'Tatsuya Nakadai']",68196.0
+Finding Nemo,2003,8.2,,[],Runtime1 hour 40 minutes,Andrew Stanton,"['Albert Brooks', 'Ellen DeGeneres', 'Alexander Gould']",941637960.0
+Howl's Moving Castle,2005,8.2,,[],Runtime1 hour 59 minutes,Hayao Miyazaki,"['Chieko Baishô', 'Takuya Kimura', 'Tatsuya Gashûin']",241524775.0
+The Great Escape,1963,8.2,,[],Runtime2 hours 52 minutes,John Sturges,"['Steve McQueen', 'James Garner', 'Richard Attenborough']",230637.0
+Monty Python and the Holy Grail,1975,8.2,,[],Runtime1 hour 31 minutes,Terry Gilliam,"['Graham Chapman', 'John Cleese', 'Eric Idle']",2931902.0
+The Elephant Man,1980,8.2,,[],Runtime2 hours 4 minutes,David Lynch,"['Anthony Hopkins', 'John Hurt', 'Anne Bancroft']",26034325.0
+Dial M for Murder,1954,8.2,,[],Runtime1 hour 45 minutes,Alfred Hitchcock,"['Ray Milland', 'Grace Kelly', 'Robert Cummings']",45313.0
+Klaus,2019,8.2,,[],Runtime1 hour 36 minutes,Sergio Pablos,"['Jason Schwartzman', 'J.K. Simmons', 'Rashida Jones']",
+Gone with the Wind,1940,8.2,,[],Runtime3 hours 58 minutes,Victor Fleming,"['Clark Gable', 'Vivien Leigh', 'Thomas Mitchell']",402382193.0
+Chinatown,1974,8.1,,[],Runtime2 hours 10 minutes,Roman Polanski,"['Jack Nicholson', 'Faye Dunaway', 'John Huston']",29232347.0
+The Secret in Their Eyes,2010,8.2,,[],Runtime2 hours 9 minutes,Juan José Campanella,"['Ricardo Darín', 'Soledad Villamil', 'Pablo Rago']",35079650.0
+Rashomon,1951,8.2,,[],Runtime1 hour 28 minutes,Akira Kurosawa,"['Toshirô Mifune', 'Machiko Kyô', 'Masayuki Mori']",139819.0
+"Lock, Stock and Two Smoking Barrels",1998,8.1,,[],Runtime1 hour 47 minutes,Guy Ritchie,"['Jason Flemyng', 'Dexter Fletcher', 'Nick Moran']",3753929.0
+V for Vendetta,2006,8.1,,[],Runtime2 hours 12 minutes,James McTeigue,"['Hugo Weaving', 'Natalie Portman', 'Rupert Graves']",134686457.0
+Inside Out,2015,8.1,,[],Runtime1 hour 35 minutes,Pete Docter,"['Amy Poehler', 'Bill Hader', 'Lewis Black']",859076254.0
+"Three Billboards Outside Ebbing, Missouri",2017,8.1,,[],Runtime1 hour 55 minutes,Martin McDonagh,"['Frances McDormand', 'Woody Harrelson', 'Sam Rockwell']",162729321.0
+Catch Me If You Can,2002,8.1,,[],Runtime2 hours 21 minutes,Steven Spielberg,"['Leonardo DiCaprio', 'Tom Hanks', 'Christopher Walken']",352114312.0
+Trainspotting,1996,8.1,,[],Runtime1 hour 33 minutes,Danny Boyle,"['Ewan McGregor', 'Ewen Bremner', 'Jonny Lee Miller']",16992984.0
+The Bridge on the River Kwai,1957,8.1,,[],Runtime2 hours 41 minutes,David Lean,"['William Holden', 'Alec Guinness', 'Jack Hawkins']",27201366.0
+Raging Bull,1980,8.1,,[],Runtime2 hours 9 minutes,Martin Scorsese,"['Robert De Niro', 'Cathy Moriarty', 'Joe Pesci']",23405883.0
+The Wild Robot,2024,8.2,,[],Runtime1 hour 42 minutes,Chris Sanders,"[""Lupita Nyong'o"", 'Pedro Pascal', 'Kit Connor']",333165945.0
+Fargo,1996,8.1,,[],Runtime1 hour 38 minutes,Joel Coen,"['William H. Macy', 'Frances McDormand', 'Steve Buscemi']",60611975.0
+Harry Potter and the Deathly Hallows: Part 2,2011,8.1,,[],Runtime2 hours 10 minutes,David Yates,"['Daniel Radcliffe', 'Emma Watson', 'Rupert Grint']",1342505340.0
+Warrior,2011,8.1,,[],Runtime2 hours 20 minutes,Gavin O'Connor,"['Tom Hardy', 'Nick Nolte', 'Joel Edgerton']",23308615.0
+Gran Torino,2009,8.1,,[],Runtime1 hour 56 minutes,Clint Eastwood,"['Clint Eastwood', 'Bee Vang', 'Christopher Carley']",269958228.0
+Million Dollar Baby,2005,8.1,,[],Runtime2 hours 12 minutes,Clint Eastwood,"['Hilary Swank', 'Clint Eastwood', 'Morgan Freeman']",216763646.0
+Ben-Hur,1959,8.1,,[],Runtime3 hours 32 minutes,William Wyler,"['Charlton Heston', 'Jack Hawkins', 'Stephen Boyd']",74439376.0
+Mad Max: Fury Road,2015,8.1,,[],Runtime2 hours,George Miller,"['Tom Hardy', 'Charlize Theron', 'Nicholas Hoult']",380437267.0
+My Neighbor Totoro,1990,8.1,,[],Runtime1 hour 26 minutes,Hayao Miyazaki,"['Hitoshi Takagi', 'Noriko Hidaka', 'Chika Sakamoto']",30425531.0
+Dead Poets Society,1989,8.1,,[],Runtime2 hours 8 minutes,Peter Weir,"['Robin Williams', 'Robert Sean Leonard', 'Ethan Hawke']",235860116.0
+Barry Lyndon,1975,8.1,,[],Runtime3 hours 5 minutes,Stanley Kubrick,"[""Ryan O'Neal"", 'Marisa Berenson', 'Patrick Magee']",283918.0
+Children of Heaven,1999,8.2,,[],Runtime1 hour 29 minutes,Majid Majidi,"['Reza Naji', 'Amir Farrokh Hashemian', 'Bahare Seddiqi']",933933.0
+Spider-Man: No Way Home,2021,8.2,,[],Runtime2 hours 28 minutes,Jon Watts,"['Tom Holland', 'Zendaya', 'Benedict Cumberbatch']",1921426073.0
+Hacksaw Ridge,2016,8.1,,[],Runtime2 hours 19 minutes,Mel Gibson,"['Andrew Garfield', 'Sam Worthington', 'Luke Bracey']",180563636.0
+12 Years a Slave,2013,8.1,,[],Runtime2 hours 14 minutes,Steve McQueen,"['Chiwetel Ejiofor', 'Michael Kenneth Williams', 'Michael Fassbender']",187734091.0
+The Grand Budapest Hotel,2014,8.1,,[],Runtime1 hour 39 minutes,Wes Anderson,"['Ralph Fiennes', 'F. Murray Abraham', 'Mathieu Amalric']",174567384.0
+Before Sunrise,1995,8.1,,[],Runtime1 hour 41 minutes,Richard Linklater,"['Ethan Hawke', 'Julie Delpy', 'Andrea Eckert']",6568450.0
+Blade Runner,1982,8.1,,[],Runtime1 hour 57 minutes,Ridley Scott,"['Harrison Ford', 'Rutger Hauer', 'Sean Young']",41767218.0
+Memories of Murder,2003,8.1,,[],Runtime2 hours 12 minutes,Bong Joon Ho,"['Song Kang-ho', 'Kim Sang-kyung', 'Kim Roe-ha']",1210568.0
+Gone Girl,2014,8.1,,[],Runtime2 hours 29 minutes,David Fincher,"['Ben Affleck', 'Rosamund Pike', 'Neil Patrick Harris']",370890259.0
+Ratatouille,2007,8.1,,[],Runtime1 hour 51 minutes,Brad Bird,"['Brad Garrett', 'Lou Romano', 'Patton Oswalt']",623730087.0
+How to Train Your Dragon,2010,8.1,,[],Runtime1 hour 38 minutes,Dean DeBlois,"['Jay Baruchel', 'Gerard Butler', 'Christopher Mintz-Plasse']",494879860.0
+"Monsters, Inc.",2001,8.1,,[],Runtime1 hour 32 minutes,Pete Docter,"['Billy Crystal', 'John Goodman', 'Mary Gibbs']",579770299.0
+In the Name of the Father,1994,8.1,,[],Runtime2 hours 13 minutes,Jim Sheridan,"['Daniel Day-Lewis', 'Pete Postlethwaite', 'Alison Crosbie']",65796862.0
+Wild Tales,2014,8.1,,[],Runtime2 hours 2 minutes,Damián Szifron,"['Darío Grandinetti', 'María Marull', 'Mónica Villa']",31478893.0
+The Gold Rush,1925,8.1,,[],Runtime1 hour 35 minutes,Charles Chaplin,"['Charles Chaplin', 'Mack Swain', 'Tom Murray']",33626.0
+Jaws,1975,8.1,,[],Runtime2 hours 4 minutes,Steven Spielberg,"['Roy Scheider', 'Robert Shaw', 'Richard Dreyfuss']",477916625.0
+Sherlock Jr.,1924,8.2,,[],Runtime45 minutes,Buster Keaton,"['Buster Keaton', 'Kathryn McGuire', 'Joe Keaton']",399.0
+Ford v Ferrari,2019,8.1,,[],Runtime2 hours 32 minutes,James Mangold,"['Matt Damon', 'Christian Bale', 'Jon Bernthal']",226299480.0
+Mary and Max,2009,8.1,,[],Runtime1 hour 32 minutes,Adam Elliot,"['Toni Collette', 'Philip Seymour Hoffman', 'Eric Bana']",1740791.0
+The Deer Hunter,1979,8.1,,[],Runtime3 hours 3 minutes,Michael Cimino,"['Robert De Niro', 'Christopher Walken', 'John Cazale']",49080312.0
+The Wages of Fear,1955,8.1,,[],Runtime2 hours 36 minutes,Henri-Georges Clouzot,"['Yves Montand', 'Charles Vanel', 'Peter van Eyck']",22326.0
+The General,1927,8.1,,[],Runtime1 hour 18 minutes,Clyde Bruckman,"['Buster Keaton', 'Marion Mack', 'Glen Cavender']",1344.0
+Mr. Smith Goes to Washington,1939,8.1,,[],Runtime2 hours 9 minutes,Frank Capra,"['James Stewart', 'Jean Arthur', 'Claude Rains']",146123.0
+On the Waterfront,1954,8.1,,[],Runtime1 hour 48 minutes,Elia Kazan,"['Marlon Brando', 'Karl Malden', 'Lee J. Cobb']",3768.0
+Logan,2017,8.1,,[],Runtime2 hours 17 minutes,James Mangold,"['Hugh Jackman', 'Patrick Stewart', 'Dafne Keen']",619180476.0
+Wild Strawberries,1959,8.1,,[],Runtime1 hour 32 minutes,Ingmar Bergman,"['Victor Sjöström', 'Bibi Andersson', 'Ingrid Thulin']",81070.0
+Rocky,1976,8.1,,[],Runtime2 hours,John G. Avildsen,"['Sylvester Stallone', 'Talia Shire', 'Burt Young']",117253345.0
+The Third Man,1950,8.1,,[],Runtime1 hour 44 minutes,Carol Reed,"['Orson Welles', 'Joseph Cotten', 'Alida Valli']",1421864.0
+Tokyo Story,1972,8.1,,[],Runtime2 hours 17 minutes,Yasujirô Ozu,"['Chishû Ryû', 'Chieko Higashiyama', 'Sô Yamamura']",93881.0
+Spotlight,2015,8.1,,[],Runtime2 hours 9 minutes,Tom McCarthy,"['Mark Ruffalo', 'Michael Keaton', 'Rachel McAdams']",98690254.0
+Maharaja,2024,8.4,,[],Runtime2 hours 21 minutes,Nithilan Saminathan,"['Vijay Sethupathi', 'Anurag Kashyap', 'Mamta Mohandas']",975543.0
+The Big Lebowski,1998,8.1,,[],Runtime1 hour 57 minutes,Joel Coen,"['Jeff Bridges', 'John Goodman', 'Julianne Moore']",48261691.0
+The Terminator,1984,8.1,,[],Runtime1 hour 47 minutes,James Cameron,"['Arnold Schwarzenegger', 'Linda Hamilton', 'Michael Biehn']",78371200.0
+Pirates of the Caribbean: The Curse of the Black Pearl,2003,8.1,,[],Runtime2 hours 23 minutes,Gore Verbinski,"['Johnny Depp', 'Geoffrey Rush', 'Orlando Bloom']",654264546.0
+The Seventh Seal,1958,8.1,,[],Runtime1 hour 36 minutes,Ingmar Bergman,"['Max von Sydow', 'Gunnar Björnstrand', 'Bengt Ekerot']",312104.0
+La haine,1996,8.1,,[],Runtime1 hour 38 minutes,Mathieu Kassovitz,"['Vincent Cassel', 'Hubert Koundé', 'Saïd Taghmaoui']",760851.0
+Room,2016,8.1,,[],Runtime1 hour 58 minutes,Lenny Abrahamson,"['Brie Larson', 'Jacob Tremblay', 'Sean Bridgers']",35402766.0
+Jai Bhim,2021,8.6,,[],Runtime2 hours 44 minutes,T.J. Gnanavel,"['Suriya', 'Lijo Mol Jose', 'Manikandan K.']",
+Hotel Rwanda,2005,8.1,,[],Runtime2 hours 1 minute,Terry George,"['Don Cheadle', 'Sophie Okonedo', 'Joaquin Phoenix']",33882243.0
+Platoon,1987,8.1,,[],Runtime2 hours,Oliver Stone,"['Charlie Sheen', 'Tom Berenger', 'Willem Dafoe']",138546255.0
+The Best Years of Our Lives,1947,8.1,,[],Runtime2 hours 50 minutes,William Wyler,"['Myrna Loy', 'Dana Andrews', 'Fredric March']",23667133.0
+Before Sunset,2004,8.1,,[],Runtime1 hour 20 minutes,Richard Linklater,"['Ethan Hawke', 'Julie Delpy', 'Vernon Dobtcheff']",16506532.0
+The Exorcist,1973,8.1,,[],Runtime2 hours 2 minutes,William Friedkin,"['Ellen Burstyn', 'Max von Sydow', 'Linda Blair']",430872776.0
+The Sound of Music,1965,8.1,,[],Runtime2 hours 52 minutes,Robert Wise,"['Julie Andrews', 'Christopher Plummer', 'Eleanor Parker']",159500547.0
+The Incredibles,2004,8.0,,[],Runtime1 hour 55 minutes,Brad Bird,"['Craig T. Nelson', 'Samuel L. Jackson', 'Holly Hunter']",631688498.0
+The Wizard of Oz,1939,8.1,,[],Runtime1 hour 42 minutes,Victor Fleming,"['Judy Garland', 'Frank Morgan', 'Ray Bolger']",25637669.0
+Hachi: A Dog's Tale,2010,8.1,,[],Runtime1 hour 33 minutes,Lasse Hallström,"['Richard Gere', 'Joan Allen', 'Cary-Hiroyuki Tagawa']",46749646.0
+The Passion of Joan of Arc,1928,8.1,,[],Runtime1 hour 54 minutes,Carl Theodor Dreyer,"['Maria Falconetti', 'Eugene Silvain', 'André Berley']",22731.0
+Rush,2013,8.1,,[],Runtime2 hours 3 minutes,Ron Howard,"['Daniel Brühl', 'Chris Hemsworth', 'Olivia Wilde']",96992516.0
+Stand by Me,1986,8.1,,[],Runtime1 hour 29 minutes,Rob Reiner,"['Wil Wheaton', 'River Phoenix', 'Corey Feldman']",53525035.0
+My Father and My Son,2005,8.2,,[],Runtime1 hour 52 minutes,Çagan Irmak,"['Çetin Tekindor', 'Fikret Kuskan', 'Hümeyra']",18612999.0
+The Iron Giant,1999,8.1,,[],Runtime1 hour 26 minutes,Brad Bird,"['Eli Marienthal', 'Harry Connick Jr.', 'Jennifer Aniston']",23339506.0
+Network,1976,8.1,,[],Runtime2 hours 1 minute,Sidney Lumet,"['Faye Dunaway', 'William Holden', 'Peter Finch']",23701317.0
+A Silent Voice: The Movie,2016,8.1,,[],Runtime2 hours 10 minutes,Naoko Yamada,"['Miyu Irino', 'Saori Hayami', 'Aoi Yûki']",30819442.0
+The Handmaiden,2017,8.1,,[],Runtime2 hours 25 minutes,Park Chan-wook,"['Kim Min-hee', 'Ha Jung-woo', 'Cho Jin-woong']",37863670.0
+The Battle of Algiers,1967,8.1,,[],Runtime2 hours 1 minute,Gillo Pontecorvo,"['Brahim Hadjadj', 'Jean Martin', 'Yacef Saadi']",962002.0
+To Be or Not to Be,1942,8.1,,[],Runtime1 hour 39 minutes,Ernst Lubitsch,"['Carole Lombard', 'Jack Benny', 'Robert Stack']",4578000.0
+The Grapes of Wrath,1940,8.1,,[],Runtime2 hours 9 minutes,John Ford,"['Henry Fonda', 'Jane Darwell', 'John Carradine']",7304.0
+I'm Still Here,2025,8.2,,[],Runtime2 hours 17 minutes,Walter Salles,"['Fernanda Torres', 'Fernanda Montenegro', 'Selton Mello']",36119150.0
+Into the Wild,2007,8.0,,[],Runtime2 hours 28 minutes,Sean Penn,"['Emile Hirsch', 'Vince Vaughn', 'Catherine Keener']",56676733.0
+Groundhog Day,1993,8.0,,[],Runtime1 hour 41 minutes,Harold Ramis,"['Bill Murray', 'Andie MacDowell', 'Chris Elliott']",71108778.0
+The Help,2011,8.1,,[],Runtime2 hours 26 minutes,Tate Taylor,"['Viola Davis', 'Emma Stone', 'Octavia Spencer']",221802186.0
+Demon Slayer: Kimetsu no Yaiba - The Movie: Mugen Train,2021,8.2,,[],Runtime1 hour 57 minutes,Haruo Sotozaki,"['Natsuki Hanae', 'Akari Kitô', 'Yoshitsugu Matsuoka']",485541995.0
+Gangs of Wasseypur,2012,8.2,,[],Runtime5 hours 21 minutes,Anurag Kashyap,"['Manoj Bajpayee', 'Nawazuddin Siddiqui', 'Tigmanshu Dhulia']",4384642.0
+Andhadhun,2018,8.2,,[],Runtime2 hours 19 minutes,Sriram Raghavan,"['Ayushmann Khurrana', 'Tabu', 'Radhika Apte']",62475342.0
